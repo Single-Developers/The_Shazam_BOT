@@ -20,7 +20,7 @@
 
 ## ◇────────────────────◇
 ##
-![[music](https://user-images.githubusercontent.com/85282650/148487069-aed8723c-b207-4627-bab4-8cecc2937eb7.gif)](https://t.me/SingleMusicX)
+[![music](https://user-images.githubusercontent.com/85282650/148487069-aed8723c-b207-4627-bab4-8cecc2937eb7.gif)](https://t.me/SingleMusicX)
 
 
 

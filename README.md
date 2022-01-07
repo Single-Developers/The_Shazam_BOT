@@ -37,7 +37,7 @@
 
 ### 💁‍♂️ How to Use This BOT
 
-🙆‍♂️ Think: You hear a song or a song you don't know 👀. If you record a voice record 🗣 like 10s in Telegram and put it in this BOT, The BOT will give the song related to that voice record along with the 🎼 Lyrics of that song.😍 This robot has an 💫 Amazing Inline Mode  that allows you to Search & Download any song from any chat. There is also the facility to create a [Video Note] (https://telegram.org/blog/video-messages-and-telescope) 🎨. As usual, 💁‍♂️ this [BOT] (https://t.me/The_Shazam_BOT) also has the facility to search and download songs through Words ✍️ . Try it now and you will have this [BOT] (https://t.me/The_Shazam_BOT) weird Experience❤️
+🙆‍♂️ Think: You hear a song or a song you don't know 👀. If you record a voice record 🗣 like 10s in Telegram and put it in this BOT, The BOT will give the song related to that voice record along with the 🎼 Lyrics of that song.😍 This robot has an 💫 Amazing Inline Mode  that allows you to Search & Download any song from any chat. There is also the facility to create a [Video Note](https://telegram.org/blog/video-messages-and-telescope) 🎨. As usual, 💁‍♂️ this [BOT](https://t.me/The_Shazam_BOT) also has the facility to search and download songs through Words ✍️ . Try it now and you will have this [BOT](https://t.me/The_Shazam_BOT) weird Experience❤️
 
 - 🔑 Keywords : `/find` , `/music` , `music` , `song`
 - 📚 Group Usage Example : `/music Faded` or Reply Any Voice as `/find`
